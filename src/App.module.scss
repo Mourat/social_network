@@ -1,0 +1,19 @@
+.app {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	background-color: antiquewhite;
+
+	.header {}
+	.contentArea {
+		flex-grow: 1;
+		aside.sidebar {}
+		.page {
+			aside.widgets {}
+			main.content {}
+		}
+	}
+
+	.footer {
+	}
+}
